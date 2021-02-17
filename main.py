@@ -1,1 +1,5 @@
-#WRITE YOUR CODE IN THIS FILE
+def planets(neptune):
+    return word(planet)
+
+
+print(planets(neptune))
